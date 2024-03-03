@@ -32,3 +32,40 @@ header a{
     margin: 10px;
 }
 
+main section h1 {
+    margin-top: 15px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    
+}
+
+main section h1 span {
+    color: yellow;
+}
+
+main section p {
+    margin-top: 15px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
+main section div a{
+    margin: auto;
+    background-color: yellow;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+
+}
+
+main section .boton-container {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
